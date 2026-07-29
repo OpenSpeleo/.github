@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/wheelnext/wheelnext/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/wheelnext/wheelnext?style=for-the-badge">
+  <a href="https://github.com/OpenSpeleo/SpeleoDB/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/OpenSpeleo/SpeleoDB?style=for-the-badge">
   </a>
   <a href="https://join.slack.com/t/usah-institute/shared_invite/zt-2zanm5u4m-UjYJD~tPKrMMjmpFqNX9YQ">
       <img src="https://img.shields.io/badge/Slack-USAH_&_SpeleoDB-blueviolet?style=for-the-badge" /> 
